@@ -2,11 +2,7 @@
 title: "Welcome"
 ---
 
-<<<<<<< HEAD
-Hello, Website!
-=======
-Hello, Github!
->>>>>>> dbebf87dcec15f5904021e9f64c8a88e4aab26e3
+Hello, RStudio!
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
