@@ -1,9 +1,8 @@
 ---
-title: "R3 Exercises"
-author: "Emma Rosso"
-date: "6/28/2021"
-output: html_document
+title: "Welcome"
 ---
+
+Hello, Website!
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
